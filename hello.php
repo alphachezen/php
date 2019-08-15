@@ -1,5 +1,7 @@
 <?php
 
-echo "Olá Mundo\n";
+echo "Olá Mundo456\n";
+
+echo "Olá GitHub";
 
 ?>
